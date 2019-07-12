@@ -7,8 +7,8 @@ Before we begin, make sure to fork and clone this repository as we did yesterday
   - Clone it as we did before:
   ```
   cd ~/Desktop
-  git clone https://github.com/meet-projects/y2s18-css.git
-  cd y2s18-css
+  git clone https://github.com/meet-projects/y2s19-css.git
+  cd y2s19-css
   ```
  
 1. Open hello.html and create a page with a header, two paragraphs, and at least one link.
