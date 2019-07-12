@@ -1,4 +1,4 @@
-# Y2 2018 Summer, Day 2: CSS Labs
+# Y2 2019 Summer, Day 2: CSS Labs
 
 ## Lab 1
 Before we begin, make sure to fork and clone this repository as we did yesterday:
