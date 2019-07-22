@@ -7,6 +7,18 @@ body {
  }
 a {color:#E8E6C1;
 }
-.veg {color: purple}
+.veg {color: #FFFCDCD3;}
+#linkc {background-color:#9B55BB;}
+.sidebar {background-color :#EFDCE0;
+		  position: absolute;
+		  top: 0px;
+		  margin-left: 20px}
+.title{ width: 100%; 
+		height: 60px;}
+.content{position: absolute;
+		  top: 0px;
+		  left:200px;}
+.container{position: relative; 
+}
 
 
